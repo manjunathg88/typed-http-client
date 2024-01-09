@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqPenziWhL2c5B8c8+08SOn87TI6XpeH43ateG/ylbblQpw98sCK8j2i8v/2lUpqAlPDOytf3mFmt5zTJCcoKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.b.gangadhar\\source\\repos\\TypedHttpClientSoultion\\HogwartsAPI\\HogwartsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.b.gangadhar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\m.b.gangadhar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\m.b.gangadhar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\m.b.gangadhar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\m.b.gangadhar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\m.b.gangadhar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
