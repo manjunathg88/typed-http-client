@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TypedHttpClientSolution/HogwartsAPI/bin/Debug/net8.0
+/TypedHttpClientSolution/HogwartsAPI/obj
+/TypedHttpClientSolution/TypedHttpClient/.vs
+/TypedHttpClientSolution/TypedHttpClient/bin/Debug/net8.0
+/TypedHttpClientSolution/TypedHttpClient/obj
